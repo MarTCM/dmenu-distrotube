@@ -107,8 +107,9 @@ static unsigned int lines      = 0;
  * 7. solarized-dark.h
  * 8. solarized-light.h
  * 9. tomorrow-night.h
+ * 10. noctis.h
  */
-#include "colors/doom-one.h"
+#include "colors/noctis.h"
 
 #if GRID_PATCH
 /* -g option; if nonzero, dmenu uses a grid comprised of columns and lines */
